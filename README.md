@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/opnsense-captive-lastseen-roam">opnsense-captive-lastseen-roam</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/opnsense-captive-lastseen-roam"><strong>https://abraxaslabs.tech/research/opnsense-captive-lastseen-roam</strong></a>
+</p>
+
 
 # opnsense-captive-lastseen-roam
 
